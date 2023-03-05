@@ -1,0 +1,5 @@
+/home/mohammad/Hotel/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/home/mohammad/Hotel/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohammad/Hotel/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/home/mohammad/Hotel/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/home/mohammad/Hotel/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
